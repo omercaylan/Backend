@@ -1,0 +1,6 @@
+C:\Users\omer-\source\repos\NLayeredAppDemo\NortWind.DataAccess\bin\Debug\NortWind.DataAccess.dll
+C:\Users\omer-\source\repos\NLayeredAppDemo\NortWind.DataAccess\bin\Debug\NortWind.DataAccess.pdb
+C:\Users\omer-\source\repos\NLayeredAppDemo\NortWind.DataAccess\obj\Debug\Northwind.DataAccess.csprojAssemblyReference.cache
+C:\Users\omer-\source\repos\NLayeredAppDemo\NortWind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\omer-\source\repos\NLayeredAppDemo\NortWind.DataAccess\obj\Debug\NortWind.DataAccess.dll
+C:\Users\omer-\source\repos\NLayeredAppDemo\NortWind.DataAccess\obj\Debug\NortWind.DataAccess.pdb

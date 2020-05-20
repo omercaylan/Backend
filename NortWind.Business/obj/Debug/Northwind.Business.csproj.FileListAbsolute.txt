@@ -1,0 +1,6 @@
+C:\Users\omer-\source\repos\NLayeredAppDemo\NortWind.Business\bin\Debug\NortWind.Business.dll
+C:\Users\omer-\source\repos\NLayeredAppDemo\NortWind.Business\bin\Debug\NortWind.Business.pdb
+C:\Users\omer-\source\repos\NLayeredAppDemo\NortWind.Business\obj\Debug\Northwind.Business.csprojAssemblyReference.cache
+C:\Users\omer-\source\repos\NLayeredAppDemo\NortWind.Business\obj\Debug\Northwind.Business.csproj.CoreCompileInputs.cache
+C:\Users\omer-\source\repos\NLayeredAppDemo\NortWind.Business\obj\Debug\NortWind.Business.dll
+C:\Users\omer-\source\repos\NLayeredAppDemo\NortWind.Business\obj\Debug\NortWind.Business.pdb

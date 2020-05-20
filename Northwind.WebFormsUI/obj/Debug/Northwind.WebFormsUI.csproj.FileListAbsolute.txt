@@ -1,0 +1,9 @@
+C:\Users\omer-\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.WebFormsUI.exe.config
+C:\Users\omer-\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.WebFormsUI.exe
+C:\Users\omer-\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.WebFormsUI.pdb
+C:\Users\omer-\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csprojAssemblyReference.cache
+C:\Users\omer-\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.Properties.Resources.resources
+C:\Users\omer-\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.GenerateResource.cache
+C:\Users\omer-\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.CoreCompileInputs.cache
+C:\Users\omer-\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.exe
+C:\Users\omer-\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.pdb
